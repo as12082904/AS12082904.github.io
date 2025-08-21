@@ -2,5 +2,5 @@ title: My WildCat Studios Portfolio
 description: >-This is my portfolio showcasing my projects and skills.
 baseurl: "" # leave empty since this is your user page
 url: "https://as12082904.github.io" # replace YOURUSERNAME with your GitHub username
-theme: remote_theme: pages-themes/hacker@v0.2.0
+theme:
 plugins: # replace with your chosen theme from the list
