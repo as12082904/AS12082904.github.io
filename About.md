@@ -1,8 +1,3 @@
 layout: default
 title: Home
---- # Welcome to My Portfolio Hello! My name is [Your Alias or Initials].
-## Projects
-- Project 1: Description
-- Project 2: Description
-## About Me
-Click here to learn more → [About Me](about.md)
+Hello! I am IM. I like to play video games, hang out with friends and family, and to work on interesting things. One of my goals is to one day become a lawyer. Another one is to be stable financially. Finally, a goal of mine is to be happy in life. My great skills is being a hardworker, never giving up, and being compassionate
