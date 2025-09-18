@@ -41,7 +41,7 @@ Its saves time and money.
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-| Variable      | A named container used to store a value that may change. | `var x = 5;` | Username is FallenKing  | App  |
+| Variable      | A named container used to store a value that may change. | `var x = 5;` | Username is as12028904  | App  |
 | Constant     | A fixed value that cannot change once set. | `const PI = 3.14;` | God | The Apps Title |
 | Data Type    | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  | |
 | String     | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
